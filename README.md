@@ -118,7 +118,7 @@ or
 
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
-![Screenshot 2024-10-05 082541](https://github.com/user-attachments/assets/1d304e80-6f55-4f56-ae5b-e8e8be749996)
+![Screenshot 2024-10-07 091453](https://github.com/user-attachments/assets/6c67d398-0885-47d5-8e9a-5f262301c87a)
 
 ### Fig 7: Nclaunch Window
 
@@ -139,7 +139,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
-![Screenshot 2024-10-05 082541](https://github.com/user-attachments/assets/f1590111-5e8a-4c6b-8a5e-fd17a9ad6852)
+![Screenshot 2024-10-07 091558](https://github.com/user-attachments/assets/b6489c2b-c6ff-4721-ae17-6d0862676255)
 
 ### Fig 8: Compiled database in worklib
 
@@ -164,7 +164,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
    
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
 
-![Screenshot 2024-10-05 082541](https://github.com/user-attachments/assets/c19b01f8-94e3-4c59-9b35-fc7ffc9567f5)
+![Screenshot 2024-10-07 091745](https://github.com/user-attachments/assets/492a2b6b-e8e7-4720-94de-dfbd441e58c4)
 
 ### Fig 9: Elaboration Launch Option
 
